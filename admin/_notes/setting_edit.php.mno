@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rec_setting_edit" value="name:set_id;datatype:int,name:set_name;datatype:blob,name:set_value;datatype:blob,name:set_file;datatype:blob,name:set_permalink;datatype:string" />
+</info>

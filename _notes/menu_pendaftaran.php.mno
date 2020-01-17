@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rec_jur_list" value="name:jur_id;datatype:int,name:jur_kode;datatype:string,name:jur_nama;datatype:string,name:jur_keterangan;datatype:blob,name:jur_kuota;datatype:int" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rec_menu_pesan" value="name:pesan_id;datatype:int,name:pesan_id_user;datatype:int,name:pesan_tgl;datatype:timestamp,name:pesan_judul;datatype:string,name:pesan_text;datatype:blob,name:pesan_baca;datatype:string,name:pesan_parent;datatype:int" />
+</info>

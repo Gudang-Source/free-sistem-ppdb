@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rec_berita_detail" value="name:berita_id;datatype:int,name:berita_tgl;datatype:timestamp,name:berita_judul;datatype:string,name:berita_text;datatype:blob,name:berita_aktif;datatype:string" />
+</info>

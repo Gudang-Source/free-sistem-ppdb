@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rec_setting_tampil" value="name:set_id;datatype:int,name:set_name;datatype:string,name:set_value;datatype:string,name:set_permalink;datatype:string" />
+</info>

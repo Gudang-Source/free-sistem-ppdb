@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rec_jur_list" value="name:jur_id;datatype:int,name:jur_kode;datatype:string,name:jur_nama;datatype:string,name:jur_keterangan;datatype:blob,name:jur_kuota;datatype:int" />
+	<infoitem key="UD_rec_siswa_tampil" value="name:siswa_id;datatype:int,name:siswa_id_user;datatype:int,name:siswa_no_psb;datatype:string,name:siswa_id_jur;datatype:int,name:siswa_nama;datatype:string,name:siswa_nis;datatype:string,name:siswa_jk;datatype:string,name:siswa_tmplahir;datatype:string,name:siswa_tgllahir;datatype:date,name:siswa_agama;datatype:string,name:siswa_alamat;datatype:string,name:siswa_ayah_nama;datatype:string,name:siswa_ayah_alamat;datatype:string,name:siswa_ayah_pek;datatype:string,name:siswa_ayah_hp;datatype:string,name:siswa_sekolah_asal;datatype:string,name:siswa_sekolah_sta;datatype:string,name:siswa_sekolah_alm;datatype:string,name:siswa_no_sttb;datatype:string,name:siswa_no_skhun;datatype:string,name:siswa_thn_lls;datatype:string,name:siswa_nilai;datatype:int,name:siswa_validasi;datatype:string,name:siswa_terima;datatype:string" />
+</info>
